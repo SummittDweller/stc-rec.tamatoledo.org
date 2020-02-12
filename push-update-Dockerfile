@@ -4,4 +4,4 @@
 #
 FROM nginx:alpine
 COPY ./public /usr/share/nginx/html
-LABEL maintainer Mark A. McFate <mark.mcfate@icloud.com>
+LABEL maintainer Mackenzie G. McFate <m4ck3ngm@gmail.com>

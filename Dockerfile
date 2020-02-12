@@ -9,7 +9,7 @@ RUN git submodule update --init --recursive
 #
 ## 1 - Build a Hugo server and compile the static site into /data/public
 #
-FROM klakegg/hugo:0.59.1-alpine
+FROM klakegg/hugo:0.64.1-alpine
 COPY --from=0 /data /data
 WORKDIR /data
 RUN hugo --ignoreCache --ignoreVendor --minify --debug --verbose
@@ -18,4 +18,4 @@ RUN hugo --ignoreCache --ignoreVendor --minify --debug --verbose
 #
 FROM nginx:alpine
 COPY --from=1 /data/public /usr/share/nginx/html
-LABEL maintainer Mark A. McFate <mark.mcfate@icloud.com>
+LABEL maintainer Mackenzie G. McFate <m4ck3ngm@gmail.com>
