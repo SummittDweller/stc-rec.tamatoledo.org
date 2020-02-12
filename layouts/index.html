@@ -1,0 +1,90 @@
+{{ define "main" }}
+{{ `<!-- enter: layouts/index.html -->` | safeHTML }}
+
+<div class="container mt-3 mb-3">
+  <div class="card">
+    <div class="card-body">
+      <h1 class="card-title">
+        Welcome!
+      </h1>
+
+      <div class="welcome">
+        <p>Welcome to the internet home of <b>The Compass Rose Band</b>, based out of Cedar Rapids, IA.</p>
+        <p>We are a Classic / Southern rock band that plays high-energy music from artists such as:</p>
+
+        <div class="three-columns">
+          <ul>
+            <li>The Eagles</li>
+            <li>The Beatles</li>
+            <li>Styx</li>
+            <li>Lynyrd Skynyrd</li>
+            <li>Merle Haggard</li>
+            <li>Vince Gill</li>
+            <li>Waylon Jennings, and more.</li>
+          </ul>
+        </div>
+
+        <p>
+          Go to our <a href="https://www.facebook.com/thecompassroseband.net/" target="_blank">Facebook page (<i class='fab fa-facebook-f'></i>)</a> and "Like" it to get updates via your <i>Facebook</i> account, or follow us on the <a href="https://www.bandsintown.com/a/9074999-the-compass-rose-band" target="_blank">BandsInTown</a> app or at <a href="https://IowaLiveMusic.com" target="_blank">IowaLiveMusic.com</a>. You can view a video of one of our performances <a href="https://www.facebook.com/watch/?v=413910802541091" target="_blank">by clicking here (<i class='fas fa-film'></i>)</a>.
+        </p>
+
+        <div class="welcome-image">
+          <img src="images/compassrosecoloredit.jpg"></img>
+        </div>
+
+        </div>
+      </div>
+      <div class="card-footer"></div>
+    </div>
+
+    <div class="card">
+      <div class="card-body">
+        <h2 class="card-title">
+          Upcoming Performances
+        </h2>
+        <ul class="upcoming-performances">
+          {{ range (where .Site.RegularPages.ByDate "Type" "performance") }}
+          {{ if ge .Date.Unix now.Unix }}
+            <div class="keep-together">
+              <li class="performance">
+                <span class="performance-line-1">
+                  <a href="{{ .Permalink }}">
+                    {{ if eq .Date.Year now.Year }}
+                      {{ .Title }} <span class="nowrap">- {{ .Date.Format "Monday, Jan 2" }}</span></a>
+                    {{ else }}
+                      {{ .Title }} <span class="nowrap">- {{ .Date.Format "Monday, Jan 2, 2006" }}</span></a>
+                    {{ end }}
+                </span>
+                <br/>
+                <span class="performance-line-2">
+                  &nbsp;&nbsp; <span class="nowrap">{{ .Params.startTime }} to {{ .Params.endTime }}</span> <span class="nowrap">&bullet; {{ .Params.location }}</span> <span class="nowrap">&bullet; {{ .Params.city }}</span>
+                </span>
+              </li>
+            </div>
+          {{ end }}
+        {{ end }}
+      </ul>
+    </div>
+    <div class="card-footer"></div>
+  </div>
+
+  {{ $paginator := .Paginate ( where .Site.RegularPages.ByPublishDate.Reverse "Type" "eq" "post") }}
+  {{ if .Site.Params.startPageColumns }}
+    <div class="card-columns">
+      {{ range $paginator.Pages }}
+        {{- partial "content_index.html" . -}}
+      {{ end }}
+    </div>
+  {{ else }}
+    {{ range $paginator.Pages }}
+      <div class="mb-3">
+        {{- partial "content_index.html" . -}}
+      </div>
+    {{ end }}
+  {{ end }}
+
+  {{ template "_internal/pagination.html" . }}
+</div>
+
+{{ `<!-- exit: layouts/index.html -->` | safeHTML }}
+{{ end }}
