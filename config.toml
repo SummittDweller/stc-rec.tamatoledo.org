@@ -34,7 +34,7 @@ theme="bootstrap-bp-hugo-theme"
 
 [params]
   bannerImage = "/images/banner1.jpg"
-  description = "My funcle is the lead singer!"
+  description = "Copyright © 2014. All Rights Reserved. Design by Mark A. McFate"
   #images = ["logo.jpg"]
   # showPostSummary = true
   # startPageColumns = true
@@ -65,52 +65,45 @@ theme="bootstrap-bp-hugo-theme"
 # username unless otherwise noted.
 # Code from https://themes.gohugo.io/future-imperfect/ theme
 [social]
-  facebook = "thecompassroseband.net/"
-  email = "drassler@netins.net"
-  # youtube = "https://www.facebook.com/thecompassroseband.net/videos/413910802541091/"
+  #facebook = ""
+  #email = ""
+  # youtube = ""
 
 [menu]
 
   [[menu.main]]
     identifier = "about"
-    name = "About the Band"
+    name = "About Us"
     url = "/about/"
     weight = 10
-    pre = "<i class='fas fa-heart'></i>"
+    pre = "<i class='fas fa-school'></i>"
 
   [[menu.main]]
-    identifier = "songs"
-    name = "Artists We Cover"
-    url = "/songs/"
+    identifier = "schedules"
+    name = "Schedules"
+    url = "/schedules/"
     weight = 15
-    pre = "<i class='fas fa-music'></i>"
+    pre = "<i class='fas fa-calendar-alt'></i>"
 
   [[menu.main]]
-    identifier = "fan-gear"
-    name = "Fan Gear"
-    url = "/fan-gear/"
+    identifier = "forms"
+    name = "Forms"
+    url = "/forms/"
     weight = 20
-    pre = "<i class='fas fa-tshirt'></i>"
+    pre = "<i class='fas fa-align-justify'></i>"
 
   [[menu.main]]
     identifier = "videos"
-    name = "Videos"
+    name = "Bus Info"
     url = "/video/"
     weight = 25
-    pre = "<i class='fas fa-film'></i>"
-
-  [[menu.main]]
-    identifier = "past-performances"
-    name = "Past Performances"
-    url = "/past-performances/"
-    weight = 30
-    pre = "<i class='fas fa-glass-cheers'></i>"
+    pre = "<i class='fas fa-bus'></i>"
 
   [[menu.main]]
     identifier = "contact"
-    name = "Contact Us"
+    name = "Contact Information"
     url = "/contact/"
-    weight = 3
+    weight = 27
     pre = "<i class='far fa-envelope'></i>"
 
   [[menu.footer]]
