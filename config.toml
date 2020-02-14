@@ -65,7 +65,7 @@ theme="bootstrap-bp-hugo-theme"
 # username unless otherwise noted.
 # Code from https://themes.gohugo.io/future-imperfect/ theme
 [social]
-  #facebook = ""
+  facebook = "https://www.facebook.com/SouthTamaRecreation/"
   #email = ""
   # youtube = ""
 
