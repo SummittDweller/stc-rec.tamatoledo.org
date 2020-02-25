@@ -16,7 +16,7 @@
 }
 
 a {
-  color: #77714f;
+  color: #000000;
   text-decoration: none;
   background-color: transparent;
 }
@@ -51,11 +51,11 @@ span.nowrap {
 h4, h3, h2,
 h1.card-title,
 .text-primary {
-  color: #77714f !important;
+  color: #000000 !important;
 }
 
 .card-title {
-  border-bottom: 1px solid #77714f;
+  border-bottom: 1px solid #000000;
 }
 
 .performance-line-1 {
@@ -83,7 +83,7 @@ div.two-columns {
 }
 
 .card-body {
-  background-color: #eae7dd;
+  background-color: #d6e1ec;
 }
 
 div.card-body ul {
