@@ -93,9 +93,9 @@ theme="bootstrap-bp-hugo-theme"
     pre = "<i class='fas fa-align-justify'></i>"
 
   [[menu.main]]
-    identifier = "videos"
+    identifier = "bus"
     name = "Bus Info"
-    url = "/video/"
+    url = "/bus/"
     weight = 25
     pre = "<i class='fas fa-bus'></i>"
 
