@@ -1,4 +1,4 @@
-baseURL = "https://stc-rec.tamatoledo.net/"
+baseURL = "https://stc-rec.tamatoledo.org/"
 title = "STC-Rec"
 # author = "Steve Francia"
 # copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
@@ -34,7 +34,7 @@ theme="bootstrap-bp-hugo-theme"
 
 [params]
   bannerImage = "/images/banner1.jpg"
-  description = "Copyright © 2014. All Rights Reserved. Design by Mark A. McFate"
+  description = "Copyright © 2014. All Rights Reserved. Original design by Mark A. McFate"
   #images = ["logo.jpg"]
   # showPostSummary = true
   # startPageColumns = true
