@@ -3,4 +3,4 @@
   {{ .Page.Scratch.Set "fontawesomeLoaded" true }}
   <script defer src="/fontawesome-all.js"></script>
 {{ end }}
-<i class="fas {{ range $element := .Params }} fa-{{ $element }} {{ end }}"></i>
+&nbsp;<i class="fas {{ range $element := .Params }} fa-{{ $element }} {{ end }}"></i>&nbsp;
