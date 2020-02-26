@@ -9,8 +9,8 @@
       </h1>
 
       <div class="welcome">
-        <p>Welcome to STC Rec.</p>
-        <p>Like our <a href="https://www.facebook.com/southtamarecreation/" target="_blank">Facebook page (<i class='fab fa-facebook-f'></i>)</a> and stay up to date on all activities!</p>
+        <p>Welcome to STC Rec's Test Site!</p>
+        <p>Like our <a href="https://www.facebook.com/southtamarecreation/" target="_blank">Facebook page (<i class='fab fa-facebook-f'></i>)</a> and stay up to date on all activities! <br/>This is not intended as a full site. </p>
 
         <div class="welcome-image">
           <img src=""></img>
@@ -24,14 +24,14 @@
     <div class="card">
       <div class="card-body">
         <h2 class="card-title">
-          Upcoming Performances
+          Dates to Remember
         </h2>
-        <ul class="upcoming-performances">
-          {{ range (where .Site.RegularPages.ByDate "Type" "performance") }}
+        <ul class="upcoming-events">
+          {{ range (where .Site.RegularPages.ByDate "Type" "event") }}
           {{ if ge .Date.Unix now.Unix }}
             <div class="keep-together">
-              <li class="performance">
-                <span class="performance-line-1">
+              <li class="event">
+                <span class="event-line-1">
                   <a href="{{ .Permalink }}">
                     {{ if eq .Date.Year now.Year }}
                       {{ .Title }} <span class="nowrap">- {{ .Date.Format "Monday, Jan 2" }}</span></a>
@@ -40,7 +40,7 @@
                     {{ end }}
                 </span>
                 <br/>
-                <span class="performance-line-2">
+                <span class="event-line-2">
                   &nbsp;&nbsp; <span class="nowrap">{{ .Params.startTime }} to {{ .Params.endTime }}</span> <span class="nowrap">&bullet; {{ .Params.location }}</span> <span class="nowrap">&bullet; {{ .Params.city }}</span>
                 </span>
               </li>

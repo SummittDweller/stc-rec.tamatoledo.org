@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-type: performance
+type: event
 lastMod: {{ now.Format "2006-01-02" }}
 date: {{ .Date }}
 startTime: "5pm"
@@ -16,4 +16,4 @@ lastMod: {{ now.Format "2006-01-02" }}
 draft: false
 ---
 
-Replace this text with your performance content. You can use Markdown here.
+Replace this text with your event content. You can use Markdown here.
