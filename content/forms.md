@@ -2,22 +2,19 @@
 title: Forms
 date: 2020-02-14
 ---
-**Current registration forms can be found below.**
+**Past registration forms can be found below.**
 
-Forms can be printed and mailed to STC Rec Programs, PO Box 271, Toledo, IA 52342 or turned in to the State Bank of Toledo.
+Forms can be downloaded, printed, filled, and mailed to _STC Rec Programs, PO Box 271, Toledo, IA 52342_ or turned in to the _State Bank of Toledo_.
 
-Online registration is also available at http://getmeregistered.com/stcrec.
-
-
-**Registration Deadlines:**
-
-**Fall Soccer and Flag Football - August 30, 2019**
-
-**Basketball - September 13, 2019**
-
-**Attachments:**
+Online registration is also available at [http://getmeregistered.com/stcrec](http://getmeregistered.com/stcrec).
 
 
-[Add Fall Soccer Registration - 2019]
+### Registration Deadlines:
 
-[Add Flag Football Registration - 2019]
+  - Fall Soccer {{< fa futbol >}} and Flag Football {{< fa football-ball >}} - August 30, 2019
+  - Basketball {{< fa basketball-ball >}} - September 13, 2019
+
+### Printable PDF Forms:
+
+  - [Fall Soccer {{< fa futbol >}} Registration - 2019](/pdf-forms/19FallSoccerRegistration.pdf)
+  - [Flag Football {{< fa football-ball >}} Registration - 2019](/pdf-forms/19FootballRegistration.pdf)
