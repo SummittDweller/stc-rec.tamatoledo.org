@@ -8,6 +8,7 @@ languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
+enableEmoji = true
 
 ## Theme specific examples
 #author = "Sebastian Pech"
@@ -18,6 +19,14 @@ pygmentsCodeFences = true
 canonifyurls = true
 # paginate = 10
 theme="bootstrap-bp-hugo-theme"
+
+## Config settings for the new, default "Goldmark" markdown engine
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    hrefTargetBlank = true
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [sitemap]
   changefreq = "weekly"

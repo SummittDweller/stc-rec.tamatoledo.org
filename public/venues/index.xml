@@ -1,1 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Venues on STC-Rec</title><link>https://stc-rec.tamatoledo.org/venues/</link><description>Recent content in Venues on STC-Rec</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://stc-rec.tamatoledo.org/venues/index.xml" rel="self" type="application/rss+xml"/><item><title>Vining</title><link>https://stc-rec.tamatoledo.org/venues/vining/</link><pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate><guid>https://stc-rec.tamatoledo.org/venues/vining/</guid><description/></item><item><title>Vining School - Gymnasium</title><link>https://stc-rec.tamatoledo.org/venues/vining-school-gymnasium/</link><pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate><guid>https://stc-rec.tamatoledo.org/venues/vining-school-gymnasium/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Venues on STC-Rec</title>
+    <link>https://stc-rec.tamatoledo.org/venues/</link>
+    <description>Recent content in Venues on STC-Rec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://stc-rec.tamatoledo.org/venues/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>State Bank of Toledo</title>
+      <link>https://stc-rec.tamatoledo.org/venues/state-bank-of-toledo/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stc-rec.tamatoledo.org/venues/state-bank-of-toledo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toledo</title>
+      <link>https://stc-rec.tamatoledo.org/venues/toledo/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stc-rec.tamatoledo.org/venues/toledo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tama</title>
+      <link>https://stc-rec.tamatoledo.org/venues/tama/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stc-rec.tamatoledo.org/venues/tama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tama Civic Center</title>
+      <link>https://stc-rec.tamatoledo.org/venues/tama-civic-center/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stc-rec.tamatoledo.org/venues/tama-civic-center/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State Bank of Toledo Community Room</title>
+      <link>https://stc-rec.tamatoledo.org/venues/state-bank-of-toledo-community-room/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stc-rec.tamatoledo.org/venues/state-bank-of-toledo-community-room/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,30 +1,104 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>STC-Rec</title><link>https://stc-rec.tamatoledo.org/</link><description>Recent content on STC-Rec</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://stc-rec.tamatoledo.org/index.xml" rel="self" type="application/rss+xml"/><item><title>This is a Test!</title><link>https://stc-rec.tamatoledo.org/event/2020/test-event/</link><pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate><guid>https://stc-rec.tamatoledo.org/event/2020/test-event/</guid><description>This is a sample of a ficticious event description.</description></item><item><title>About Us</title><link>https://stc-rec.tamatoledo.org/about/</link><pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate><guid>https://stc-rec.tamatoledo.org/about/</guid><description>The STC Recreational Program was established in 1976. It is a nonprofit organization and is supported by the taxpayers of Tama and Toledo. STC REC is available to all youth in grades K-8 within the STC School District. The REC program strives to improve program availability, facilities, and equipment. Some past improvements include: adding a batting cage, scoreboards, and fencing improvements. STC REC is managed by a board of seven member/volunteers who meet regularly.</description></item><item><title>Bus Schedules</title><link>https://stc-rec.tamatoledo.org/bus/</link><pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate><guid>https://stc-rec.tamatoledo.org/bus/</guid><description>Times are approximate and subject to change as season begins.
-Can be affected due to traffic.
-Bus Driver: Ellie Dolezal (641-485-2880)
-Pick-Up
-7:45am Old Primary
-7:48 Elementary school &amp;amp; High School Tennis Courts
-7:50 Pool
-Kid&amp;rsquo;s Corner (if needed)
-7:52 Middle School gym
-Country Club (if needed)
-Return &amp;amp; Pick Up
-9:05am Kid&amp;rsquo;s Corner
-9:10 Middle School
-9:12 Pool
-9:17 Country Club
-9:21 Old Primary
-9:26 Elementary School &amp;amp; High School Tennis Courts</description></item><item><title>Contact</title><link>https://stc-rec.tamatoledo.org/contact/</link><pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate><guid>https://stc-rec.tamatoledo.org/contact/</guid><description>Coaches:
-REC Board Members:
-Elizabeth Dolezal, President - Cell: 515-368-0644 Email: elizabethdolezal@hotmail.com
-Claire Mayo, Secretary - Cell: 563-321-8961 Email: clairemgraves@hotmail.com
-Jerimi Kopsa, Treasurer - Home: 641-481-9257 Cell: 515-979-5529 Email: jerimikopsa@hotmail.com
-Shayna Zmolek, Board Member - Cell: 515-979-3306 Email: shaynazmolek@gmail.com
-Hannah Mullen, Board Member - Cell:641-481-3000 Email: mullhan@hotmail.com
-Samantha Peska, Board Member - Cell: 641-295-6295 Email: speska@aea267.k12.ia.us</description></item><item><title>Forms</title><link>https://stc-rec.tamatoledo.org/forms/</link><pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate><guid>https://stc-rec.tamatoledo.org/forms/</guid><description>Past registration forms can be found below.
-Forms can be downloaded, printed, filled, and mailed to STC Rec Programs, PO Box 271, Toledo, IA 52342 or turned in to the State Bank of Toledo.
-Online registration is also available at http://getmeregistered.com/stcrec.
-Registration Deadlines: Fall Soccer &amp;nbsp;&amp;nbsp; and Flag Football &amp;nbsp;&amp;nbsp; - August 30, 2019 Basketball &amp;nbsp;&amp;nbsp; - September 13, 2019 Printable PDF Forms: Fall Soccer &amp;nbsp;&amp;nbsp; Registration - 2019 Flag Football &amp;nbsp;&amp;nbsp; Registration - 2019</description></item><item><title>Schedules</title><link>https://stc-rec.tamatoledo.org/schedules/</link><pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate><guid>https://stc-rec.tamatoledo.org/schedules/</guid><description>Schedules will be updated on a seasonal basis.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STC-Rec</title>
+    <link>https://stc-rec.tamatoledo.org/</link>
+    <description>Recent content on STC-Rec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://stc-rec.tamatoledo.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>All Sports Registration Deadline</title>
+      <link>https://stc-rec.tamatoledo.org/event/2020/may10/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stc-rec.tamatoledo.org/event/2020/may10/</guid>
+      <description>A downloadable registration form can be found at https://stc-rec.tamatoledo.org/registration/ .</description>
+    </item>
+    
+    <item>
+      <title>T-ball, Baseball, and Softball Registration Deadline</title>
+      <link>https://stc-rec.tamatoledo.org/event/2020/april10/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stc-rec.tamatoledo.org/event/2020/april10/</guid>
+      <description>A downloadable registration form can be found at https://stc-rec.tamatoledo.org/registration/ .</description>
+    </item>
+    
+    <item>
+      <title>March 28 Registration</title>
+      <link>https://stc-rec.tamatoledo.org/event/2020/march28/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stc-rec.tamatoledo.org/event/2020/march28/</guid>
+      <description>A downloadable registration form can be found at https://stc-rec.tamatoledo.org/registration/ .</description>
+    </item>
+    
+    <item>
+      <title>March 24 Registration</title>
+      <link>https://stc-rec.tamatoledo.org/event/2020/march24/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stc-rec.tamatoledo.org/event/2020/march24/</guid>
+      <description>A downloadable registration form can be found at https://stc-rec.tamatoledo.org/registration/ .</description>
+    </item>
+    
+    <item>
+      <title>Register</title>
+      <link>https://stc-rec.tamatoledo.org/register/</link>
+      <pubDate>Tue, 03 Mar 2020 14:03:04 -0600</pubDate>
+      
+      <guid>https://stc-rec.tamatoledo.org/register/</guid>
+      <description>Forms can be downloaded, printed, filled, and mailed to:
+&amp;hellip;or dropped off in the lobby at the State Bank of Toledo.
+Registration dates are March 24th in the State Bank of Toledo Community Room from 4:30 - 6:30pm, and March 28th at the Tama Civic Center from 9 - 11am. You can also download the registration form and mail it in with payment or drop it off at the State Bank of Toledo (by Fareway) by the deadline.</description>
+    </item>
+    
+    <item>
+      <title>Bus Schedules</title>
+      <link>https://stc-rec.tamatoledo.org/bus/</link>
+      <pubDate>Tue, 03 Mar 2020 14:00:17 -0600</pubDate>
+      
+      <guid>https://stc-rec.tamatoledo.org/bus/</guid>
+      <description>Times are approximate and subject to change as season begins, and can be affected due to traffic.
+ Bus Driver: Ellie Dolezal (641-485-2880)
+Click Bus-Schedule - Ellie Dolezal to download a printable  &amp;nbsp;&amp;nbsp; schedule.
+Pick-Up    Time Location     7:45am Old Tama Primary Lot   7:47am Partnership Center - NW Corner   7:50am Pool/Basketball Courts   7:51am Kids&amp;rsquo; Corner (if needed)   7:52am Middle School Gym &amp;amp; Country Club (if needed)    Return &amp;amp; Pick-Up    Time Location     9:05am Kids&amp;rsquo; Corner   9:10am Middle School   9:12am Pool/Basketball Courts   9:17am Country Club   9:21am Partnership Center - NW Corner   9:23am Old Tama Primary Lot   9:26am Elementary/High School Tennis Courts   9:28am Pool/Basketball Courts   9:38am Middle School (drop off only)    Return &amp;amp; Pick-Up    Time Location     10:40am Kids&amp;rsquo; Corner   10:45am Middle School Gym   10:47am Pool/Basketball Courts   10:50am Elementary/High School Tennis Courts   10:53am Partnership Center - NW Corner   10:55am Old Tama Primary Lot   10:5?</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://stc-rec.tamatoledo.org/contact/</link>
+      <pubDate>Tue, 03 Mar 2020 13:59:49 -0600</pubDate>
+      
+      <guid>https://stc-rec.tamatoledo.org/contact/</guid>
+      <description>Coaches: Check back later for more information.
+REC Board Members:    Name Role Phone Email     Shayna Zmolek Board President Cellular: 515-979-3306 shaynazmolek@gmail.com    Claire Mayo Board Secretary Cellular: 563-321-8961 clairemgraves@hotmail.com    Jerimi Kopsa Board Treasurer Home: 641-481-9257 / Cellular: 515-979-5529 jerimikopsa@hotmail.com    Hannah Mullen Board Member Cellular: 641-481-3000 mullhan@hotmail.com    Samantha Peska Board Member Cellular: 641-295-6295 speska@aea267.</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>https://stc-rec.tamatoledo.org/about/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stc-rec.tamatoledo.org/about/</guid>
+      <description>The STC Recreational Program was established in 1976. It is a nonprofit organization and is supported by the taxpayers of Tama and Toledo. STC REC is available to all youth in grades K-8 (depending on the sport) within the STC School District. The REC program strives to improve program availability, facilities, and equipment. Some past improvements include: adding a batting cage, scoreboards, and fencing improvements. STC REC is managed by a board of seven member/volunteers who meet regularly.</description>
+    </item>
+    
+    <item>
+      <title>Schedules</title>
+      <link>https://stc-rec.tamatoledo.org/schedules/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stc-rec.tamatoledo.org/schedules/</guid>
+      <description>Schedules will be updated on a seasonal basis.
 Attachments:
-[Add Basketball Info Sheet]
-[Add Soccer/Flag Football Info Sheet]</description></item></channel></rss>
+ 2020 Summer REC Schedule  </description>
+    </item>
+    
+  </channel>
+</rss>

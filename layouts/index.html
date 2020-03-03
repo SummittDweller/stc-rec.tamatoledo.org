@@ -9,8 +9,8 @@
       </h1>
 
       <div class="welcome">
-        <p>Welcome to STC Rec's Test Site!</p>
-        <p>Like our <a href="https://www.facebook.com/southtamarecreation/" target="_blank">Facebook page (<i class='fab fa-facebook-f'></i>)</a> and stay up to date on all activities! <br/>This is ONLY A TEST!  The information here is NOT real, yet. </p>
+        <p>{{ "Welcome to **STC Rec**!" | markdownify }}</p>
+        <p>Like our <a href="https://www.facebook.com/southtamarecreation/" target="_blank">Facebook page (<i class='fab fa-facebook-f'></i>)</a> and stay up-to-date on all activities! </p>
 
         <div class="welcome-image">
           <img src=""></img>
@@ -23,9 +23,8 @@
 
     <div class="card">
       <div class="card-body">
-        <h2 class="card-title">
-          Dates to Remember
-        </h2>
+        <h2 class="card-title"> Dates to Remember </h2>
+
         <ul class="upcoming-events">
           {{ range (where .Site.RegularPages.ByDate "Type" "event") }}
           {{ if ge .Date.Unix now.Unix }}
@@ -47,6 +46,13 @@
             </div>
           {{ end }}
         {{ end }}
+
+        <li class="event">
+          <span class="event-line-1">
+            {{ "Visit us again in **March 2021** for another season!" | markdownify }}
+          </span>
+        </li>
+
       </ul>
     </div>
     <div class="card-footer"></div>

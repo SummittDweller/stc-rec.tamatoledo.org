@@ -1,10 +1,10 @@
 ---
 title: Schedules
-date: 2020-02-14
+date: 2020-03-03T14:29:01-06:00
 ---
 
 Schedules will be updated on a seasonal basis.
 
-**Attachments:**
+## Attachments
 
-- [2020 Summer REC Schedule](/pdf-forms/2020SummerRECSchedule.pdf)
+  Download the 2020 Summer REC Schedule:  {{< button "2020 Summer REC Schedule" "/pdf-forms/2020SummerRECSchedule.pdf" >}}

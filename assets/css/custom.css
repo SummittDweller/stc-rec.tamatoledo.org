@@ -21,6 +21,14 @@ a {
   background-color: transparent;
 }
 
+span.button-shortcode {
+  border: 1px solid blue;
+  border-radius: 5px;
+  background: black;
+  color: whitesmoke;
+  padding: 5px 10px;
+}
+
 span.nowrap {
   white-space: nowrap;
 }
@@ -75,23 +83,27 @@ div.welcome-image img {
   max-width: 100%;
 }
 
+/*
 div.two-columns {
-  -webkit-columns: 2 300px;
-  -moz-columns: 2 300px;
-  columns: 2 300px;
-  margin-bottom: 10px;
+ -webkit-columns: 2 300px;
+ -moz-columns: 2 300px;
+ columns: 2 300px;
+ margin-bottom: 10px;
 }
+*/
 
 .card-body {
   background-color: #d6e1ec;
 }
 
+/*
 div.card-body ul {
-  -webkit-columns: 3 220px;
-  -moz-columns: 3 220px;
-  columns: 3 220px;
-  margin-bottom: 10px;
+ margin-bottom: 10px;
+ -webkit-columns: 3 220px;
+ -moz-columns: 3 220px;
+ columns: 3 220px;
 }
+*/
 
 div.card-body ul.one-column {
   -webkit-columns: 1;
@@ -100,16 +112,20 @@ div.card-body ul.one-column {
   margin-bottom: 10px;
 }
 
+/*
 div.three-columns ul {
-  -webkit-columns: 3 220px;
-  -moz-columns: 3 220px;
-  columns: 3 220px;
-  margin-bottom: 10px;
+ -webkit-columns: 3 220px;
+ -moz-columns: 3 220px;
+ columns: 3 220px;
+ margin-bottom: 10px;
 }
+*/
 
+/*
 div.keep-together {
   display: inline-block;
 }
+*/
 
 li.event {
   margin-right: 5px;
@@ -130,4 +146,17 @@ div.form-field textarea {
 
 input.form-submit {
   margin: 5px 15px;
+}
+
+h2 {
+  margin-top: 1em;
+}
+
+h2.card-title {
+  margin-top: 0;
+}
+
+td {
+  border: 1px solid black;
+  padding: 5px 10px;
 }
