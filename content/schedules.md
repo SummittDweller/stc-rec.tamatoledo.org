@@ -7,6 +7,4 @@ Schedules will be updated on a seasonal basis.
 
 **Attachments:**
 
-[Add Basketball Info Sheet]
-
-[Add Soccer/Flag Football Info Sheet]
+- [2020 Summer REC Schedule](/pdf-forms/2020SummerRECSchedule.pdf)

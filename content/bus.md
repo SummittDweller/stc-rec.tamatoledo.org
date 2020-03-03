@@ -9,62 +9,67 @@ Can be affected due to traffic.
 
 Bus Driver: Ellie Dolezal (641-485-2880)
 
+A printable bus schedule can be found at: [Bus Schedule - Ellie Dolezal](/pdf-forms/BusSchedule-EllieDolezal.pdf).
+
 
 **Pick-Up**
 
-7:45am Old Primary
+7:45am - Old Primary
 
-7:48 Elementary school & High School Tennis Courts
+7:47am - Partnership (NW Corner)
 
-7:50 Pool
+7:50am - Pool/Basketball Courts
 
-Kid's Corner (if needed)
+7: 51am - Kids Corner (if needed)
 
-7:52 Middle School gym
-
-Country Club (if needed)
+7:52am - Middle School Gym & Country Club (if needed)
 
 
 **Return & Pick Up**
 
-9:05am Kid's Corner
+9:05am - Kids Corner
 
-9:10 Middle School
+9:10am - Middle School
 
-9:12 Pool
+9:12am - Pool/Basketball Courts
 
-9:17 Country Club
+9:17am - Country Club
 
-9:21 Old Primary
+9:21am - Partnership - NW Corner
 
-9:26 Elementary School & High School Tennis Courts
+9:23am - Old Primary
 
-9:28 Pool (if needed) (drop off only)
+9:26am - Elementary/High School Tennis Courts
 
-9:38 Middle School (drop off only)
+9:28am - Pool/Basketball Courts
+
+9:38am - Middle School (drop off only)
 
 
 **Return & Pick-Up**
 
-10:40am Kid's Corner
+10:40am - Kids Corner
 
-10:45 Middle School
+10:45am - Middle School Gym
 
-10:47 Pool
+10:47am - Pool/Basketball Courts
 
-10:50 Elementary School & High School Tennis Courts
+10:50am - Elementary/High School Tennis Courts
 
-10:55 Old Primary
+10:53am - Partnership (NW Corner)
 
-Pool & High School (if needed)
+10:55am - Old Primary
 
-11:00/11:05 Toledo Heights
+- Pool/Basketball Courts (if needed)
 
-11:10 Middle School (drop off only)
+- High School Tennis Courts (if needed)
 
+11:05am - Toledo Heights
+
+- Middle School (drop off only)
 
 **Return Only**
 
-12:15 Toledo Heights
+12:15pm - Toledo Heights
 
-RETURN TO ALL OTHER NEEDED STOPS
+- Takes them to drop off locations based on needs.

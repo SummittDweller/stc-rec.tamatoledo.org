@@ -86,9 +86,9 @@ theme="bootstrap-bp-hugo-theme"
     pre = "<i class='fas fa-calendar-alt'></i>"
 
   [[menu.main]]
-    identifier = "forms"
-    name = "Forms"
-    url = "/forms/"
+    identifier = "register"
+    name = "Register"
+    url = "/register/"
     weight = 20
     pre = "<i class='fas fa-align-justify'></i>"
 
