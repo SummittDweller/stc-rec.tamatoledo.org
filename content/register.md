@@ -26,4 +26,4 @@ You can also download the registration form and mail it in with payment or drop 
 
 ## Printable PDF Forms
 
-  Download: {{< button "All Activities - 2020 Summer REC Registration Form" "/pdf-forms/2020RegistrationForm.pdf" >}}
+  Download: {{< button "All Activities - 2020 Summer REC Registration Form" "/pdf-forms/2020SummerRec-RegistrationFormREVISED.pdf" >}}
