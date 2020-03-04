@@ -36,7 +36,7 @@ Click {{< button "Bus-Schedule - Ellie Dolezal" "/pdf-forms/BusSchedule-EllieDol
 | 9:23am      | Old Tama Primary Lot                   |
 | 9:26am      | Elementary / High School Tennis Courts |
 | 9:28am      | Pool / Basketball Courts               |
-| 9:38am      | Middle School (drop off only)          |
+| 9:38am      | Middle School (drop-off only)          |
 
 
 ### Return & Pick-Up
@@ -52,7 +52,7 @@ Click {{< button "Bus-Schedule - Ellie Dolezal" "/pdf-forms/BusSchedule-EllieDol
 | If Needed   | Pool / Basketball Courts (if needed)    |
 | If Needed   | High School Tennis Courts (if needed)   |
 | 11:05am     | Toledo Heights                          |
-| After 11:05 | Middle School (drop off only)           |
+| After 11:05 | Middle School (drop-off only)           |
 
 
 ### Return Only
@@ -60,4 +60,4 @@ Click {{< button "Bus-Schedule - Ellie Dolezal" "/pdf-forms/BusSchedule-EllieDol
 | Time        | Location                                  |
 | ---         | ---                                       |
 | 12:15pm     | Toledo Heights                            |
-| ---         | Delivered to drop off locations as needed |
+| ---         | Delivered to drop-off locations as needed |
