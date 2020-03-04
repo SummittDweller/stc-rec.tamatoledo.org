@@ -15,7 +15,7 @@ Check back later for more information.
 | ---  | ---  | ---   | ---   |
 | Shayna Zmolek | Board President | Cellular: 515-979-3306 | {{< mailto "shaynazmolek@gmail.com" >}} |
 | Claire Mayo | Board Secretary | Cellular: 563-321-8961 | {{< mailto "clairemgraves@hotmail.com" >}} |
-| Jerimi Kopsa | Board Treasurer | Home: 641-481-9257 / Cellular: 515-979-5529 | {{< mailto "jerimikopsa@hotmail.com" >}} |
+| Jerimi Kopsa | Board Treasurer | Cellular: 515-979-5529 | {{< mailto "jerimikopsa@hotmail.com" >}} |
 | Hannah Mullen | Board Member | Cellular: 641-481-3000 | {{< mailto "mullhan@hotmail.com" >}} |
 | Samantha Peska | Board Member | Cellular: 641-295-6295 | {{< mailto "speska@aea267.k12.ia.us" >}} |
 | Elizabeth Dolezal | Board Member | Cellular: 515-368-0644 | {{< mailto "elizabethdolezal@hotmail.com" >}} |
