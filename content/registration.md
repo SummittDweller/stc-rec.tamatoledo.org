@@ -1,6 +1,8 @@
 ---
-title: Register
+title: Registration
 date: 2020-03-03T14:03:04-06:00
+aliases:
+  - /register/
 ---
 
 Forms can be downloaded, printed, filled, and mailed to:

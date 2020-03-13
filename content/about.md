@@ -9,7 +9,7 @@ Several recreational programs are offered to the youth throughout the year.
 
 In the Spring/Summer we offer:
 
-  - TBall,
+  - T-Ball,
   - Baseball,
   - Softball,
   - Volleyball,
