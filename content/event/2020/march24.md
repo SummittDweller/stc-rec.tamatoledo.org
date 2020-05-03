@@ -12,7 +12,7 @@ venues:
   - Toledo
 description: "Text about this post"
 publishDate: 2020-02-24
-draft: false
+draft: true
 ---
 
 A downloadable registration form can be found at on our {{< button "Registration page" "/registration/" >}}.

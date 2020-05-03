@@ -12,7 +12,7 @@ venues:
   - Tama
 description: "Text about this post"
 publishDate: 2020-02-24
-draft: false
+draft: true
 ---
 
 A downloadable registration form can be found at {{< button "Registration page" "/registration/" >}}.

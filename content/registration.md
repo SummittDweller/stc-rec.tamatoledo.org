@@ -1,6 +1,6 @@
 ---
 title: Registration
-date: 2020-03-03T14:03:04-06:00
+date: 2020-03-20T00:24:34-05:00
 aliases:
   - /register/
 ---
@@ -15,9 +15,9 @@ Forms can be downloaded, printed, filled, and mailed to:
 
 <!-- Online registration is also available at [http://getmeregistered.com/stcrec](http://getmeregistered.com/stcrec). /-->
 
-Registration dates are **March 24th** in the _State Bank of Toledo Community Room_ from 4:30 - 6:30pm, and **March 28th** at the _Tama Civic Center_ from 9 - 11am.
-You can also download the registration form and mail it in with payment or drop it off at the _State Bank of Toledo_ (near _Fareway_) by the deadline.
+You have the option to register online at http://getmeregistered.com/stcrecsummer.
 
+NOTE: If you are registering a child for multiple sports or registering more than one child at a time, scroll to the bottom of the http://getmeregistered.com/stcrecsummer page and select `Multiple Registrations`.  It will make the process easier for you! :smile:
 
 ## Registration Deadlines
 
