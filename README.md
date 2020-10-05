@@ -1,4 +1,4 @@
-# Compass Rose Band - Hugo Static Site
+# STC Rec - Hugo Static Site
 
 
 ## Development
@@ -6,7 +6,7 @@
 ### Clone
 Clone the project to your local workstation using:
 ```
-git clone --recurse-submodules https://github.com/SummittDweller/compass-rose-band.git
+git clone --recurse-submodules https://github.com/SummittDweller/stc-rec.tamatoledo.org.git
 ```
 
 The use of `--recurse-submodules` ensures that you get all active themes and any other _Git_ submodules that are part of the project.
@@ -15,7 +15,7 @@ The use of `--recurse-submodules` ensures that you get all active themes and any
 If you `clone` in some other manner without the `--recurse-submodules` flag, as is the case when using _GitHub Desktop_, be sure you also run the following:
 
 ```
-cd ~/Documents/GitHub/compass-rose-band
+cd ~/Documents/GitHub/stc-rec
 git submodule init
 git submodule update
 ```
