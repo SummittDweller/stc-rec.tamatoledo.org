@@ -1,4 +1,4 @@
-baseURL = "https://stc-rec.tamatoledo.org/"
+# baseURL = "https://stc-rec.tamatoledo.org/"
 title = "STC-Rec"
 # author = "Steve Francia"
 # copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
