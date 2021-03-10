@@ -17,15 +17,17 @@ Forms can be downloaded, printed, filled, and mailed to:
 
 You have the option to register online at http://getmeregistered.com/stcrecsummer.
 
-NOTE: If you are registering a child for multiple sports or registering more than one child at a time, scroll to the bottom of the http://getmeregistered.com/stcrecsummer page and select `Multiple Registrations`.  It will make the process easier for you! :smile:
+**NOTE:** If you are registering a child for multiple sports or registering more than one child at a time, scroll to the bottom of the http://getmeregistered.com/stcrecsummer page and select `Multiple Registrations`.  It will make the process easier for you! :smile:
 
 ## Registration Deadlines
 
   | Activity | Registration Deadline |
   | --- | --- |
-  | T-ball, Baseball, and Softball Registration | April 10, 2020 |
-  | All other sports registration | May 10, 2020 |
+  | Baseball, and Softball Registration | April 9, 2021 |
+  | All other sports registration | May 10, 2021 |
 
 ## Printable PDF Forms
 
-  Download: {{< button "All Activities - 2020 Summer REC Registration Form" "/pdf-forms/2020SummerRec-RegistrationFormREVISED.pdf" >}}
+  Download (English): {{< button "All Activities - 2021 Summer REC Registration Form (English)" "/pdf-forms/2021SummerRecRegistrationForm.pdf" >}}
+
+  Download (Spanish): {{< button "All Activities - 2021 Summer REC Registration Form (Spanish)" "/pdf-forms/2021RECRegistrationSPANISH.png" >}}
