@@ -1,6 +1,6 @@
 ---
 title: Registration
-date: 2020-03-20T00:24:34-05:00
+date: 2021-03-09T22:10:57-06:00
 aliases:
   - /register/
 ---
