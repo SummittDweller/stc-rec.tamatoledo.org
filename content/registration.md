@@ -23,8 +23,8 @@ You have the option to register online at http://getmeregistered.com/stcrecsumme
 
   | Activity | Registration Deadline |
   | --- | --- |
-  | Baseball, and Softball Registration | April 9, 2021 |
-  | All other sports registration | May 10, 2021 |
+  | Baseball, and Softball Registration | April 11, 2022 |
+  | All other sports registration | May 9, 2022 |
 
 ## Printable PDF Forms
 
