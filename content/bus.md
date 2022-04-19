@@ -7,7 +7,7 @@ Times are approximate and subject to change as season begins, and can be affecte
 
 &nbsp;&nbsp;&nbsp;&nbsp;_Bus Driver_: Ellie Dolezal (641-485-2880)
 
-Click {{< button "Bus-Schedule - Ellie Dolezal" "/pdf-forms/BusSchedule-EllieDolezal.pdf" >}} to download a printable {{< fa bus >}} schedule.
+Click {{< button "Bus-Schedule - Ellie Dolezal" "/pdf-forms/Bus-Schedule.pdf" >}} to download a printable {{< fa bus >}} schedule.
 
 
 ## Monday, Tuesday, Wednesday & Thursday in June
