@@ -30,4 +30,4 @@ You have the option to register online at http://getmeregistered.com/stcrecsumme
 
   Download (English): {{< button "All Activities - 2022 Summer REC Registration Form (English)" "/pdf-forms/2022-Summer-Rec-Registration-Form-English.pdf" >}}
 
-  Download (Spanish): {{< button "All Activities - 2022 Summer REC Registration Form (Spanish)" "/pdf-forms/2022-Summer-Rec-Registration-Form-SPANISH.png" >}}
+  Download (Spanish): {{< button "All Activities - 2022 Summer REC Registration Form (Spanish)" "/pdf-forms/2022-Summer-Rec-Registration-Form-SPANISH.pdf" >}}
