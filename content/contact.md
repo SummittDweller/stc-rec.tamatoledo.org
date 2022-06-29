@@ -13,10 +13,10 @@ Check back later for more information.
 
 | Name | Role | Phone | Email |
 | ---  | ---  | ---   | ---   |
-| Shayna Zmolek | Board President | Cellular: 515-979-3306 | {{< mailto "shaynazmolek@gmail.com" >}} |
+| Samantha Peska | Board President | Cellular: 641-295-6295 | {{< mailto "speska@aea267.k12.ia.us" >}} |
 | Claire Mayo | Board Secretary | Cellular: 563-321-8961 | {{< mailto "clairemgraves@hotmail.com" >}} |
-| Brooke Yuska | Board Treasurer | Cellular: 641-485-4608 | {{< mailto "byuska@banktoledo.com" >}} |
-| Hannah Mullen | Board Member | Cellular: 641-481-3000 | {{< mailto "mullhan@hotmail.com" >}} |
-| Samantha Peska | Board Member | Cellular: 641-295-6295 | {{< mailto "speska@aea267.k12.ia.us" >}} |
+| Lindsay Schumacher | Treasurer | Cellular: 319-461-3755 | {{< mailto "lschumacher@lattaharris.com" >}} |
 | Chelsea Ahrens | Board Member | Cellular: 641-481-5112 | {{< mailto "cahrens@s-tama.k12.ia.us" >}} |
 | Trish Tow | Board Member | Cellular: 641-354-3129 | {{< mailto "trishtow@hotmail.com" >}} |
+| Ashley Raue | Board Member | Cellular: 641-485-0187 | {{< mailto "araue@s-tama.k12.ia.us" >}} |
+| Jenny Schlabaugh | Board Member | Cellular: 641-751-4504 | {{< mailto "cjschlabaugh@gmail.com" >}} |
